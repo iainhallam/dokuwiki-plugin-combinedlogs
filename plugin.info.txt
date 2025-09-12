@@ -1,0 +1,6 @@
+base   combinedlogs
+author Iain Hallam
+date   2025-09-12
+name   Combined Logs
+desc   Combines the logs of all facilities into a single folder or file
+url    https://www.dokuwiki.org/plugin:combinedlogs
