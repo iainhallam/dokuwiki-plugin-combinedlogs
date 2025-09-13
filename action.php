@@ -34,7 +34,6 @@ class action_plugin_combinedlogs extends ActionPlugin
      *
      * @see https://www.dokuwiki.org/devel:events:LOGGER_DATA_FORMAT
      * @param Event $event Event object by reference
-     * @param mixed $param optional parameter passed when event was registered
      * @return void
      */
     public function handleLoggerDataFormat(Event $event)
