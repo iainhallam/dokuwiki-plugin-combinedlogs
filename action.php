@@ -4,7 +4,7 @@
  * DokuWiki Plugin combinedlogs (Action Component)
  *
  * @license GPL 2 http://www.gnu.org/licenses/gpl-2.0.html
- * @author Iain Hallam <first.last@example.com>
+ * @author Iain Hallam
  */
 
 use dokuwiki\Extension\ActionPlugin;
